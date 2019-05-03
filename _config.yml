@@ -6,7 +6,7 @@
 # Site
 title: Have a nice day
 subtitle:
-description: 我信仰耐心和坚持的力量，愿意持续去做一些正确、有积累、可能表面看上去不那么重要实则非常关键的事情。
+description: 我相信耐心和坚持的力量，持续去做一些正确、有积累、可能表面看上去不那么重要实则非常关键的事情。
 author: Simba
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -213,8 +213,13 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
   #LinkLabel: Link
+  GitHub: https://github.com/coolearn
+  #Twitter: your-twitter-url
+  #Weibo: your-weibo-url
+  #DouBan: your-douban-url
+  #ZhiHu: your-zhihu-url
 
 
 # Social Links Icons
