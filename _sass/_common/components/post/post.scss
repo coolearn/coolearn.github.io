@@ -39,6 +39,13 @@
   @include transform(rotate(30deg));
 }
 
+.post-container img[alt~="@2x"] {
+  zoom: 50%;
+}
+.post-container img[alt~="@3x"] {
+  zoom: 33%;
+}
+
 @import "post-expand";
 @import "post-collapse";
 @import "post-type";
