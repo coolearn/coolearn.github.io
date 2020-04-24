@@ -440,12 +440,12 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: false
-  clientID: # 54730ddf7b9420460c03
-  clientSecret: # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  repo: # colingpt.github.io
-  owner: # colingpt
-  admin: # colingpt
+  enable: true
+  clientID: e07a7ed04934f6831adb
+  clientSecret: dcf6a7b9a6e5c01cc9393a0d978e61a4f0a90e23
+  repo: coolearn.github.io
+  owner: coolearn
+  admin: coolearn
 
 # Baidu Share
 # Available value:
